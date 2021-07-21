@@ -3,12 +3,14 @@
 The DR51 is an exploration of implementing an Information Radiator in the home environment. It will run on a Raspberry Pi and will gather and aggregate information for us to build dashboards with and explore.
 
 ## Projects
+Overall Documentation is [here](doc/index.md)
 
-* Setup [Grafana](https://grafana.com/) as the dashboarding tool
+* Setup [Grafana](https://grafana.com/) as the dashboarding tool. Documented [here](doc/grafana.md)
 * Setup a data miner to capture weather information
     * Build a dashboard to show
 * Setup a data miner to capture stock information
     * Build a dashboard to show 
+
 
 ## Contributors
 * [Amanda Nobil]()
