@@ -13,4 +13,4 @@ The DR51 is an exploration of implementing an Information Radiator in the home e
 ## Contributors
 * [Amanda Nobil]()
 * [Andrew Hohenner](https://github.com/hohenner)
-* [Tristan Delgado]()
+* [Tristan Delgado](https://github.com/3dnat51rt)
