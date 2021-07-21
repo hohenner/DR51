@@ -5,11 +5,11 @@ The DR51 is an exploration of implementing an Information Radiator in the home e
 ## Projects
 Overall Documentation is [here](doc/index.md)
 
-* Setup [Grafana](https://grafana.com/) as the dashboarding tool. Documented [here](doc/grafana.md)
-* Setup a data miner to capture weather information
-    * Build a dashboard to show
-* Setup a data miner to capture stock information
-    * Build a dashboard to show 
+- [x] Setup [Grafana](https://grafana.com/) as the dashboarding tool. Documented [here](doc/grafana.md)
+- [] Setup a data miner to capture weather information
+    - [] Build a dashboard to show
+- [] Setup a data miner to capture stock information
+    - [] Build a dashboard to show 
 
 
 ## Contributors
