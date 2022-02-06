@@ -131,3 +131,7 @@ dmypy.json
 # docker environment
 docker_env/data/grafana/*.db
 docker_env/data/prometheus/data/
+
+# projects
+projects/paperless-ng/paperless-ng/
+
