@@ -13,4 +13,5 @@ the Grafana setup steps include setting up SSH.
 Setup is documented [here](docker_env.md)
 
 ## Docker on Raspberry Pi
-instructions are [here](https://dev.to/elalemanyo/how-to-install-docker-and-docker-compose-on-raspberry-pi-1mo)
+instructions are [here](https://dev.to/elalemanyo/how-to-install-docker-and-docker-compose-on-raspberry-pi-1mo) 
+[Official Raspbery pi blog post](https://www.raspberrypi.com/news/docker-comes-to-raspberry-pi/)
